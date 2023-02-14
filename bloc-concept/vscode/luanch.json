@@ -1,0 +1,23 @@
+{
+
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "cmflutter0",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "cmflutter0 (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "cmflutter0 (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
