@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027292372174",
+    "project_id": "phoneauthflutter-aa757",
+    "storage_bucket": "phoneauthflutter-aa757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027292372174:android:2404805069ed346bad449f",
+        "android_client_info": {
+          "package_name": "com.example.authflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027292372174-k89rp8b3hiaddh70mano7klvh50fu7tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLRAM4cP-IKwllro_rqix43dqNK5N_j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027292372174-k89rp8b3hiaddh70mano7klvh50fu7tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
